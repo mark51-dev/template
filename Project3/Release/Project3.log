@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\sb0na\source\repos\Project3\Project3\main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\sb0na\source\repos\Project3\Project3\main.cpp(7,39): error C2664: 'Mem::Mem(const Mem &)': cannot convert argument 1 from 'const char [12]' to 'char *'
+C:\Users\sb0na\source\repos\Project3\Project3\main.cpp(7,21): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\sb0na\source\repos\Project3\Project3\Mem.h(8,2): message : see declaration of 'Mem::Mem'
